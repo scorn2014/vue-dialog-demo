@@ -1,1 +1,1 @@
-# vue-dialog-demo
+用VUE实现一个Dialog的组件，并且以npm包的形式发布出来
